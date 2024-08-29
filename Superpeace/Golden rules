@@ -1,0 +1,79 @@
+<DOCTYPE HTML>
+<html>
+    <style>
+    p.a { 
+      word-spacing:Double;
+    }
+    body{
+    background-color: rgba(109, 255, 104, 0.862);
+   }
+   h1{
+    color:rgb(21, 44, 215);
+    
+}
+  /* Style the header */
+  .header {
+      background-color: rgb(17, 203, 20);
+      padding: 20px;
+      text-align: center;
+    }
+p{
+    font-family: Italic;
+    size: 20;
+  }
+    .button{
+    background-color: rgb(128, 224, 168);
+    border: rgb(60, 250, 250);
+
+   }
+   .no-lines {
+             text-decoration: #6cfaffb5;
+            }
+
+    /*using p and /p also space words out tobe more readable.And comments in Css must be within the code to work Good*/
+    
+
+
+  
+    ul {
+  list-style-type: vertical;
+  margin: 50px;
+  padding: 50px;
+  overflow: 5px;
+  height: 100px;
+  font-weight: bold;
+  font-style: normal;
+  
+}
+
+li {
+  float: Top ;
+ 
+  
+}
+
+li {
+  display: inline-block;
+  padding: 20px;/*changes the with of the link boxes*/
+  background-color: #62ee62b5; 
+  width:max-content;
+}
+/*the code above is the code that controles the border colors*/
+  
+  </style>
+
+<h1 class="header">SuperPeace</h1>
+<div class="button">
+<li><a href="" class="no-lines">Home</a></li></button>
+<li><a href="" class="no-lines">Golden rules</a></li></button>
+<li><a href="" class="no-lines">Languages</a></li></button>
+<li><a href="" class="no-lines">Mental heath</a></li></button>
+<li><a href="" class="no-lines">Jobs</a></li></button>
+<li><a href="" class="no-lines">Ideas</a></li></button>
+<li><a href="" class="no-lines">Donations</a></li></button>
+<li><a href="" class="no-lines">Contact</a></li></button>
+</div>
+    <p>Everyone has rules to follow, They are introduced to us when we are young to know what is right from wrong.The do's and don'ts of the world around us. But as we get older the line tends to bler, what seemed wrong befor is right now? Things become even more confusing when you are told to do one thing and the ones who told you do the oppisit.Why is that? The truth is the path of right and wrong is not clear. It can be a chalange to make the right desisons on things. We start to look at our values, our leaders, bosses, and older members of our family to help guid us. weither its from a religon or cultuer, rules are there to protect us.You don't have to agree with those rules but you can alway try to improve those rules to make things better.</p>
+    <p>But even though there are diffent rules in laws, culter,  religion and socity we can all agree on similer rules. For this we are going to call them Golden rules.These rules consit of some slevel of not killing people, treating others repectfully,Work hard to earn your keep, and Help others.By us following theses rules we can build a better wold and fouce on bigger issues. No one is perfect and it can take some time, but we can do it.</p>
+
+</html>
