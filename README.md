@@ -72,14 +72,14 @@ One step for world peace
     </head>
     <h1 class="header">SuperPeace</h1>
     <div class="button">
-    <li><a href="" class="no-lines">Home</a></li></button>
-    <li><a href="" class="no-lines">Golden rules</a></li></button>
-    <li><a href="" class="no-lines">Languages</a></li></button>
-    <li><a href="" class="no-lines">Mental heath</a></li></button>
-    <li><a href="" class="no-lines">Jobs</a></li></button>
-    <li><a href="" class="no-lines">Ideas</a></li></button>
-    <li><a href="" class="no-lines">Donations</a></li></button>
-    <li><a href="" class="no-lines">Contact</a></li></button>
+    <li><a href="Home" class="no-lines">Home</a></li></button>
+    <li><a href="Rules" class="no-lines">Golden rules</a></li></button>
+    <li><a href="Languages" class="no-lines">Languages</a></li></button>
+    <li><a href="Mental heath" class="no-lines">Mental heath</a></li></button>
+    <li><a href="Jobs" class="no-lines">Jobs</a></li></button>
+    <li><a href="Ideas" class="no-lines">Ideas</a></li></button>
+    <li><a href="Donations" class="no-lines">Donations</a></li></button>
+    <li><a href="Contact" class="no-lines">Contact</a></li></button>
     </div>
     <p>Welcome to SuperPeace. This is a big step to achive world peace.We will go over what we can do to make the world a better place, how to approch big issues,supporting causes and much more.
         World peace is no easy task, we have to keep in mind of all the facters that take place in the world, Things like religion, goverments, culture and knolowge play big role in how we can achive would peace.Other things like Nato, Grose demestic product and laguage can also help.
